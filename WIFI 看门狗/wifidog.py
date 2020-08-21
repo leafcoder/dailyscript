@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-# @Author: zhanglei3
-# @Date:   2020-08-19 10:26:46
-# @Last Modified by:   zhanglei3
-# @Last Modified time: 2020-08-19 10:47:22
+#!/usr/bin/env python
+#-*- coding: utf-8 -*-
 
 """WIFI 看门狗"""
 
